@@ -366,16 +366,19 @@
     PAVG= V^2/R → PAVG = (1.25)^2/10 Ω → PAVG = 156 mW
     
     32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
+    
     Resolución
     
     Ampere-hora = (1.5 A)(24 h)= 36 Ah 
     
     34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
+    
     Resolución
     
     I = W/t  → I= 650 mAh/48 h → I= 13.5 mA
     
     36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+    
     Resolución
     
     PSAL = ( eficiencia ) PEN = (0.85)(5 W) 
