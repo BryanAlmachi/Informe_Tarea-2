@@ -114,7 +114,7 @@
     
     Imax= Vs/Rmin → I=12V/1650 Ω → I= 7.27 mA
     
-    Imin= Vs/Rmax → I=12V/4950 Ω → I=2,42 MA
+    Imin= Vs/Rmax → I=12V/4950 Ω → I=2.42 MA
     
     20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja,
     violeta, amarillo, oro, café.
