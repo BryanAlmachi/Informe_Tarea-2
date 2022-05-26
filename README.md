@@ -80,11 +80,12 @@
     
     I=V/R=  25V/8200Ω=3,04x10^-3 mA 
     
-    ![image](https://user-images.githubusercontent.com/105255508/170432964-6d2566e9-b319-4176-bfcb-1fa7002c2b90.png)
+    ![image](https://user-images.githubusercontent.com/105255508/170433213-5c027f05-031c-4e31-8fd3-be0f3950ae86.png)
+
 
     10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
  
-     ![image](https://user-images.githubusercontent.com/105255508/170425472-240c69c6-eacd-40e7-a498-8661429eee8a.png)
+   ![image](https://user-images.githubusercontent.com/105255508/170425472-240c69c6-eacd-40e7-a498-8661429eee8a.png)
 
     Resolución 
     
@@ -154,7 +155,7 @@
     
     22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador.Cuando el reóstato se ajusta a un valor de 8   o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltajea través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
     
-     ![image](https://user-images.githubusercontent.com/105255508/170426237-950a1614-3554-4dd5-a6d3-f11337df8efe.png)
+   ![image](https://user-images.githubusercontent.com/105255508/170426237-950a1614-3554-4dd5-a6d3-f11337df8efe.png)
 
     Resolución
     
@@ -196,7 +197,7 @@
 
     26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
     
-    ![image](https://user-images.githubusercontent.com/105255508/170426333-c857f01a-2f77-436b-949e-a73afed43beb.png)
+   ![image](https://user-images.githubusercontent.com/105255508/170426333-c857f01a-2f77-436b-949e-a73afed43beb.png)
 
     Resolución
     
@@ -241,7 +242,7 @@
     
       Se debe dibujar el circuito y luego medir la corriente con un amperimetro, para proceder a calcular la resistencia que se desea.
     
-     ![image](https://user-images.githubusercontent.com/105255508/170427003-513e68f4-abd0-4943-8492-ca61c84e299d.png)
+   ![image](https://user-images.githubusercontent.com/105255508/170427003-513e68f4-abd0-4943-8492-ca61c84e299d.png)
 
     R=12V/I 
 
@@ -259,7 +260,7 @@
     
     36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas
     
-     ![image](https://user-images.githubusercontent.com/105255508/170427119-d02f8ce3-8e0a-44d5-9c4a-e9da0b93762b.png)
+   ![image](https://user-images.githubusercontent.com/105255508/170427119-d02f8ce3-8e0a-44d5-9c4a-e9da0b93762b.png)
 
     Resolución
     
@@ -385,11 +386,11 @@
     
     28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
     
-    ![image](https://user-images.githubusercontent.com/105255508/170427400-06593365-bf26-49ea-93b3-bde8c4e64c42.png)
+   ![image](https://user-images.githubusercontent.com/105255508/170427400-06593365-bf26-49ea-93b3-bde8c4e64c42.png)
 
     Resolución
 
-    ![image](https://user-images.githubusercontent.com/105255508/170427453-29299c74-061a-432e-a33f-a7b02bd83da3.png)
+   ![image](https://user-images.githubusercontent.com/105255508/170427453-29299c74-061a-432e-a33f-a7b02bd83da3.png)
 
     SECCIÓN 4–5 Fuentes de potencia
     
