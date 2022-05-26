@@ -239,9 +239,9 @@
 
   Resolucion 
 
-    Se debe dibujar el circuito y luego medir la corriente con un amperimetro, para proceder a calcular la resistencia que se desea.
+  Se debe dibujar el circuito y luego medir la corriente con un amperimetro, para proceder a calcular la resistencia que se desea.
 
- ![image](https://user-images.githubusercontent.com/105255508/170427003-513e68f4-abd0-4943-8492-ca61c84e299d.png)
+ ![image](https://user-images.githubusercontent.com/105255508/170435706-b2d45a8f-078e-4e00-8820-9931171f90ba.png)
 
   R=12V/I 
 
