@@ -96,7 +96,7 @@
 
   R= El circuito C tiene mas corriente 
 
-    El circuito a tiene menos corriente 
+   El circuito a tiene menos corriente 
 
   12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V,¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
 
