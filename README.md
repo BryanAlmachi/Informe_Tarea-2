@@ -4,7 +4,7 @@
 
   Objetivo General 
   
-  •	Conocer los conceptos expuestos en el libro de Floyd “Principios de Circuitos Eléctricos” que se encuentran en el capítulo 3 y 4, para saber la relación entre corriente, voltaje y resistencia que nos dará paso a la cuarta cantidad básica conocida como potencia.
+  •	Conocer los conceptos expuestos en el libro de Floyd “Principios de Circuitos Eléctricos” que se encuentran en el capítulo 3 y 4, teniendo en claro la relación que hay entre corriente, voltaje y resistencia, lo que nos dará paso a entender lo que es energia y potencia.
   
   Objetivo Especifico 
   
@@ -68,8 +68,19 @@
     
     Resolucion 
     
-    Resistencia = 8.2K Ω±5%
+    Resistencia = 8.2KΩ ±5%
     
+    I=V/R=  5V/8200Ω=6,09x10^-4 mA
+    
+    I=V/R=  10V/8200Ω=1,21x10^-3 mA 
+    
+    I=V/R=  15V/8200Ω=1,82x10^-3 mA 
+    
+    I=V/R=  20V/8200Ω=2,43x10^-4 mA 
+    
+    I=V/R=  25V/8200Ω=3,04x10^-3 mA 
+    
+    ![image](https://user-images.githubusercontent.com/105255508/170432964-6d2566e9-b319-4176-bfcb-1fa7002c2b90.png)
 
     10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
  
