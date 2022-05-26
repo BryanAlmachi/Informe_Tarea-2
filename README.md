@@ -1,7 +1,16 @@
 # Informe_Tarea-2
 
 1. OBEJTIVOS
- 
+
+  Objetivo General 
+  
+  •	Conocer los conceptos expuestos en el libro de Floyd “Principios de Circuitos Eléctricos” que se encuentran en el capítulo 3 y 4, para saber la relación entre corriente, voltaje y resistencia que nos dará paso a la cuarta cantidad básica conocida como potencia.
+  
+  Objetivo Especifico 
+  
+  •	Conocer los conceptos de la ley de Ohm, la apliacaion de sus formulas en el análisis de ejericios de circuitos eléctricos.
+  
+  •	Aplicar los conocimientos adquiridos de la ley de ohm, potencia y energia del libro de Floyd "Principios de circuitos Eléctricos", mediando la resolución de ejercicios.
  
  2. MARCO TEORICO 
 
@@ -57,9 +66,15 @@
     
     8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro
     
+    Resolucion 
+    
+    Resistencia = 8.2K Ω±5%
+    
 
     10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
  
+ ![image](https://user-images.githubusercontent.com/105255508/170425472-240c69c6-eacd-40e7-a498-8661429eee8a.png)
+
     Resolución 
     
     (a)	I=V/R → I=50V/3.3 kΩ → I=15.15 mA
@@ -72,11 +87,14 @@
     
       El circuito a tiene menos corriente 
       
-    12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, 
-    ¿En cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
+    12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V,¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
     
-
-
+    Resolución 
+    
+    R=V/I → R=20V/0,1A → R=200Ω  
+    
+    V=I×R → V=0,15A×200Ω → V=30V 
+    
     14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
     
 
@@ -101,8 +119,7 @@
     (e)	V= 66kV, R=10 MΩ
           I=V/R →I=66kV/10MΩ → I= 6.6mA
 
-    18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima
-     esperadas cuando se conecta una     fuente de 12 V a través del resistor.
+    18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
     
     Resistor = 3300 Ω ±5%
 
@@ -116,8 +133,7 @@
     
     Imin= Vs/Rmax → I=12V/4950 Ω → I=2.42 MA
     
-    20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja,
-    violeta, amarillo, oro, café.
+    20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja,violeta, amarillo, oro, café.
     
     Resistor= 37.4 Ω
     
@@ -125,11 +141,9 @@
     
     I=V/R  →I=12V/37.4 Ω → I= 0.321 A
     
-    22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento 
-    calentador.Cuando el reóstato se ajusta a un valor de 8   o menos, el elemento calentador puede quemarse. ¿Cuál es el valor 
-    nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente 
-    máxima es de 100 V, y el voltajea través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje 
-    de la fuente?
+    22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador.Cuando el reóstato se ajusta a un valor de 8   o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltajea través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
+    
+   ![image](https://user-images.githubusercontent.com/105255508/170426237-950a1614-3554-4dd5-a6d3-f11337df8efe.png)
 
     Resolución
     
@@ -169,8 +183,9 @@
     (h)	I=75 µA, R=47Ω
            V=IxR → V=(75 µA)( 47Ω) → V= 3.53 mV 
 
-    26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las 
-    cantidades de corriente indicadas.
+    26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
+    
+   ![image](https://user-images.githubusercontent.com/105255508/170426333-c857f01a-2f77-436b-949e-a73afed43beb.png)
 
     Resolución
     
@@ -209,13 +224,17 @@
     
     R=6V/2mA → R= 3kΩ
     
-    32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. 
-    ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
+    32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro.¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
+    
+    Resolucion 
+    
+      Se debe dibujar el circuito y luego medir la corriente con un amperimetro, para proceder a calcular la resistencia que se desea.
+    
+   ![image](https://user-images.githubusercontent.com/105255508/170427003-513e68f4-abd0-4943-8492-ca61c84e299d.png)
 
+    R=12V/I 
 
-    34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante 
-    un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una
-    resistencia de la lámpara de 15 Ω.
+    34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 Ω.
     
     Resolución
     
@@ -228,7 +247,12 @@
     SECCIÓN 3–5 Introducción a la localización de fallas
     
     36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas
+    
+   ![image](https://user-images.githubusercontent.com/105255508/170427119-d02f8ce3-8e0a-44d5-9c4a-e9da0b93762b.png)
 
+    Resolución
+    
+    R= El foco numero 3 esta fundido 
 
    CAPITULO 4
    
@@ -330,8 +354,7 @@
     
     P = V^2/R  → P= (60 v)^2/680 Ω → P=5.29 W
     
-    24. Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? 
-    Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
+    24. Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
     
     Resolución 
     
@@ -341,9 +364,7 @@
     
     SECCIÓN 4–3 Clasificaciones de potencia en resistores
     
-    26. Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el
-    resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones 
-    de potencia estándar.
+    26. Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.
     
     Resolución 
     
@@ -352,14 +373,16 @@
     SECCIÓN 4–4 Conversión de energía y caída de voltaje en una resistencia
     
     28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
+    
+![image](https://user-images.githubusercontent.com/105255508/170427400-06593365-bf26-49ea-93b3-bde8c4e64c42.png)
 
     Resolución
 
+![image](https://user-images.githubusercontent.com/105255508/170427453-29299c74-061a-432e-a33f-a7b02bd83da3.png)
 
     SECCIÓN 4–5 Fuentes de potencia
     
-    30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Ω antes de volverse
-    inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
+    30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
     
     Resolución
     
