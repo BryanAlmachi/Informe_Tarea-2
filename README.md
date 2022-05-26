@@ -5,6 +5,20 @@
  
  2. MARCO TEORICO 
 
+ ![image](https://user-images.githubusercontent.com/105255508/170397028-f782ee79-8916-4fe3-aa3d-6d7de53c6386.png)
+
+![image](https://user-images.githubusercontent.com/105255508/170397053-73185158-d179-4e9e-95c2-1d0245ae246f.png)
+
+![image](https://user-images.githubusercontent.com/105255508/170397080-9d82efb2-785c-464f-a370-d83b27a832ff.png)
+
+![image](https://user-images.githubusercontent.com/105255508/170397095-50526187-df27-4a7b-9048-c8ba9686a757.png)
+
+![image](https://user-images.githubusercontent.com/105255508/170397111-17199aa7-450a-4257-bf0d-18ec14d7b054.png)
+
+![image](https://user-images.githubusercontent.com/105255508/170397133-d52c89af-7c81-40cb-a526-215f1abd808b.png)
+
+![image](https://user-images.githubusercontent.com/105255508/170397147-11f62e2f-e726-466f-bd4c-323888eb207b.png)
+
 
 
 3. EXPLICACION Y RESOLUCION DE EJERICIOS O PROBLEMAS
@@ -102,17 +116,20 @@
     
     Imin= Vs/Rmax → I=12V/4950 Ω → I=2,42 MA
     
-    20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
+    20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja,
+    violeta, amarillo, oro, café.
+    
     Resistor= 37.4 Ω
     
     Resolución
     
     I=V/R  →I=12V/37.4 Ω → I= 0.321 A
     
-    22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador.
-    Cuando el reóstato se ajusta a un valor de 8   o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible 
-    requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje
-    a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
+    22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento 
+    calentador.Cuando el reóstato se ajusta a un valor de 8   o menos, el elemento calentador puede quemarse. ¿Cuál es el valor 
+    nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente 
+    máxima es de 100 V, y el voltajea través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje 
+    de la fuente?
 
     Resolución
     
@@ -152,8 +169,8 @@
     (h)	I=75 µA, R=47Ω
            V=IxR → V=(75 µA)( 47Ω) → V= 3.53 mV 
 
-    26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades
-    de corriente indicadas.
+    26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las 
+    cantidades de corriente indicadas.
 
     Resolución
     
