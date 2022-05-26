@@ -241,7 +241,7 @@
 
   Se debe dibujar el circuito y luego medir la corriente con un amperimetro, para proceder a calcular la resistencia que se desea.
 
- ![image](https://user-images.githubusercontent.com/105255508/170435706-b2d45a8f-078e-4e00-8820-9931171f90ba.png)
+ ![image](https://user-images.githubusercontent.com/105255508/170435937-b1f7d1e8-364c-4177-9ab9-65066a8ae32c.png)
 
   R=12V/I 
 
